@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="19008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)V!!!*Q(C=\&gt;8.=2J"%-8RNSY@&gt;()6';AY[&gt;YJE!)J&gt;!J=R9VS"JU#+:$#+W&gt;!!,K1!P\PU-AO7R](7SK\3LM-,'^X?H\\Q3#.Z5&lt;[L0.LCVZ=LPP(A@0&lt;;.,ZV`XT[XT:[+WH_P^IP`@8C`WP2:Y:`XH`(ZX_R`+R`0@,`;M`AD@`(5T8([^J25N;8#9$EZP=Z#9XO=G,P-C,P-C,P-C40-G40-G40-G$0-C$0-C$0#[4S6HE)B?Z9MQ?:H!TE#FK#JC$I=C]'9`R')`R]&amp;8'9TT'9TT'QS%S(O-R(O-R(LL*?)T(?)T(?#AV*"YL/2\DI&lt;Q+4_%J0)7H]$#E#E]"+!9L#B&gt;&amp;9+D977Q5HM*4?.B5Y3E]B;@Q&amp;"ZWK`!5HM*4?!I08=:6K;':6X)]F&amp;(C34S**`%E(EIL]33?R*.Y%A`$+@%EHA32$*A5B[#E5X*!]C8R*"Y_F(A34_**0)G(8?-/Z&lt;ASMW:?S@%%HM!4?!*0Y+'%!E`A#4S"*`"16I%H]!3?Q".Y'%K"*`!%HA!3$-LQ#II&amp;(9/$AC$Q]"J03YS\6%-39V8`EYU(6@U!KB]M^1/D@B$5.VB^Y^1X2(WBV2&gt;1@7(5*[Q_%4610&lt;#[I0J!H8A`UA[U07V(W^$7N"6N36P-8@`SA;@43=@D59@$1@P^8LP&gt;4JP.2OPV7KP63MPF5IP&amp;YH%;O'6^H"!O]^)^W^NP$^0W\OOUN;@N$:^@(K9Z@Y@`ZX^A&lt;N1H`4Q'V_A\##5U'A!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
+<Library LVVersion="20008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)V!!!*Q(C=\&gt;8.=2J"%-8RNSY@&gt;()6';AY[&gt;YJE!)J&gt;!J=R9VS"JU#+:$#+W&gt;!!,K1!P\PU-AO7R](7SK\3LM-,'^X?H\\Q3#.Z5&lt;[L0.LCVZ=LPP(A@0&lt;;.,ZV`XT[XT:[+WH_P^IP`@8C`WP2:Y:`XH`(ZX_R`+R`0@,`;M`AD@`(5T8([^J25N;8#9$EZP=Z#9XO=G,P-C,P-C,P-C40-G40-G40-G$0-C$0-C$0#[4S6HE)B?Z9MQ?:H!TE#FK#JC$I=C]'9`R')`R]&amp;8'9TT'9TT'QS%S(O-R(O-R(LL*?)T(?)T(?#AV*"YL/2\DI&lt;Q+4_%J0)7H]$#E#E]"+!9L#B&gt;&amp;9+D977Q5HM*4?.B5Y3E]B;@Q&amp;"ZWK`!5HM*4?!I08=:6K;':6X)]F&amp;(C34S**`%E(EIL]33?R*.Y%A`$+@%EHA32$*A5B[#E5X*!]C8R*"Y_F(A34_**0)G(8?-/Z&lt;ASMW:?S@%%HM!4?!*0Y+'%!E`A#4S"*`"16I%H]!3?Q".Y'%K"*`!%HA!3$-LQ#II&amp;(9/$AC$Q]"J03YS\6%-39V8`EYU(6@U!KB]M^1/D@B$5.VB^Y^1X2(WBV2&gt;1@7(5*[Q_%4610&lt;#[I0J!H8A`UA[U07V(W^$7N"6N36P-8@`SA;@43=@D59@$1@P^8LP&gt;4JP.2OPV7KP63MPF5IP&amp;YH%;O'6^H"!O]^)^W^NP$^0W\OOUN;@N$:^@(K9Z@Y@`ZX^A&lt;N1H`4Q'V_A\##5U'A!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -63,6 +63,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="DQMH" Type="Folder">
+			<Item Name="Active VI Cluster.ctl" Type="VI" URL="../Active VI Cluster.ctl"/>
 			<Item Name="Close Module.vi" Type="VI" URL="../Close Module.vi"/>
 			<Item Name="EHL Data Cluster.ctl" Type="VI" URL="../EHL Data Cluster.ctl"/>
 			<Item Name="Get Module Main VI Information.vi" Type="VI" URL="../Get Module Main VI Information.vi"/>
@@ -102,4 +103,5 @@
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Get Application Instance Name.vi" Type="VI" URL="../Get Application Instance Name.vi"/>
 </Library>
