@@ -79,6 +79,12 @@
 			<Item Name="Open VI Panel.vi" Type="VI" URL="../Open VI Panel.vi"/>
 			<Item Name="Request and Wait for Reply Timeout--error.vi" Type="VI" URL="../Request and Wait for Reply Timeout--error.vi"/>
 		</Item>
+		<Item Name="Tree" Type="Folder">
+			<Item Name="Add to Tree.vi" Type="VI" URL="../Add to Tree.vi"/>
+			<Item Name="Delete Last Item.vi" Type="VI" URL="../Delete Last Item.vi"/>
+			<Item Name="Jump Back.vi" Type="VI" URL="../Jump Back.vi"/>
+			<Item Name="Simplify VI Name.vi" Type="VI" URL="../Simplify VI Name.vi"/>
+		</Item>
 		<Item Name="Window Positioning" Type="Folder">
 			<Item Name="Determine Window Position.vi" Type="VI" URL="../Determine Window Position.vi"/>
 			<Item Name="Get Absolute Position of SubVI.vi" Type="VI" URL="../Get Absolute Position of SubVI.vi"/>
@@ -87,6 +93,7 @@
 			<Item Name="Position Peek Window.vi" Type="VI" URL="../Position Peek Window.vi"/>
 			<Item Name="Toggle Visibility.vi" Type="VI" URL="../Toggle Visibility.vi"/>
 		</Item>
+		<Item Name="Get Application Instance Name.vi" Type="VI" URL="../Get Application Instance Name.vi"/>
 		<Item Name="Insert Into Subpanel.vi" Type="VI" URL="../Insert Into Subpanel.vi"/>
 		<Item Name="Is Valid Selection" Type="VI" URL="../Is Valid Selection"/>
 		<Item Name="Is VI Locked or Open.vi" Type="VI" URL="../Is VI Locked or Open.vi"/>
@@ -103,5 +110,4 @@
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Get Application Instance Name.vi" Type="VI" URL="../Get Application Instance Name.vi"/>
 </Library>
