@@ -95,6 +95,7 @@
 		</Item>
 		<Item Name="Get Application Instance Name.vi" Type="VI" URL="../Get Application Instance Name.vi"/>
 		<Item Name="Insert Into Subpanel.vi" Type="VI" URL="../Insert Into Subpanel.vi"/>
+		<Item Name="Is Dynamic Dispatch.vi" Type="VI" URL="../Is Dynamic Dispatch.vi"/>
 		<Item Name="Is Valid Selection" Type="VI" URL="../Is Valid Selection"/>
 		<Item Name="Is VI Locked or Open.vi" Type="VI" URL="../Is VI Locked or Open.vi"/>
 		<Item Name="Update Call Chain.vi" Type="VI" URL="../Update Call Chain.vi"/>
