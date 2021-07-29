@@ -107,6 +107,8 @@
 			<Item Name="Get Monitor Bounds of Position.vi" Type="VI" URL="../Get Monitor Bounds of Position.vi"/>
 			<Item Name="Is Position on Right Half.vi" Type="VI" URL="../Is Position on Right Half.vi"/>
 			<Item Name="Position Peek Window.vi" Type="VI" URL="../Position Peek Window.vi"/>
+			<Item Name="Save Window Position.vi" Type="VI" URL="../Save Window Position.vi"/>
+			<Item Name="Set Window Position.vi" Type="VI" URL="../Set Window Position.vi"/>
 			<Item Name="Toggle Visibility.vi" Type="VI" URL="../Toggle Visibility.vi"/>
 		</Item>
 		<Item Name="Determine Peek Stack Display.vi" Type="VI" URL="../Determine Peek Stack Display.vi"/>
