@@ -84,8 +84,28 @@
 			<Item Name="Class Implements Method.vi" Type="VI" URL="../Class Implements Method.vi"/>
 			<Item Name="Get Child Information.vi" Type="VI" URL="../Get Child Information.vi"/>
 			<Item Name="Implementor Tree Item Info.ctl" Type="VI" URL="../Implementor Tree Item Info.ctl"/>
+			<Item Name="Is Dynamic Dispatch.vi" Type="VI" URL="../Is Dynamic Dispatch.vi"/>
 			<Item Name="Lookup Implementor.vi" Type="VI" URL="../Lookup Implementor.vi"/>
 			<Item Name="Sort Classes by Name.vi" Type="VI" URL="../Sort Classes by Name.vi"/>
+		</Item>
+		<Item Name="General UI" Type="Folder">
+			<Item Name="Get Application Instance Name.vi" Type="VI" URL="../Get Application Instance Name.vi"/>
+			<Item Name="Highlight Top SubVI.vi" Type="VI" URL="../Highlight Top SubVI.vi"/>
+			<Item Name="Insert Into Subpanel.vi" Type="VI" URL="../Insert Into Subpanel.vi"/>
+			<Item Name="Pause UI Updates.vi" Type="VI" URL="../Pause UI Updates.vi"/>
+			<Item Name="Resume UI Updates.vi" Type="VI" URL="../Resume UI Updates.vi"/>
+		</Item>
+		<Item Name="Item Selection" Type="Folder">
+			<Item Name="Is Valid Selection" Type="VI" URL="../Is Valid Selection"/>
+			<Item Name="Is VI Locked or Open.vi" Type="VI" URL="../Is VI Locked or Open.vi"/>
+			<Item Name="Update Active VI.vi" Type="VI" URL="../Update Active VI.vi"/>
+			<Item Name="VIs to Ignore.vi" Type="VI" URL="../VIs to Ignore.vi"/>
+		</Item>
+		<Item Name="Stack" Type="Folder">
+			<Item Name="Determine Peek Stack Display.vi" Type="VI" URL="../Determine Peek Stack Display.vi"/>
+			<Item Name="Remove Last Item from Peek Stack.vi" Type="VI" URL="../Remove Last Item from Peek Stack.vi"/>
+			<Item Name="Replace Item in Peek Stack.vi" Type="VI" URL="../Replace Item in Peek Stack.vi"/>
+			<Item Name="Update Call Chain.vi" Type="VI" URL="../Update Call Chain.vi"/>
 		</Item>
 		<Item Name="Tree" Type="Folder">
 			<Item Name="Add Implementation Child Tree.vi" Type="VI" URL="../Add Implementation Child Tree.vi"/>
@@ -99,33 +119,13 @@
 			<Item Name="Replace Item in Tree.vi" Type="VI" URL="../Replace Item in Tree.vi"/>
 			<Item Name="Set Active Item.vi" Type="VI" URL="../Set Active Item.vi"/>
 			<Item Name="Simplify VI Name.vi" Type="VI" URL="../Simplify VI Name.vi"/>
+			<Item Name="Strip Method Name.vi" Type="VI" URL="../Strip Method Name.vi"/>
 			<Item Name="Tree Show Scrollbar.vi" Type="VI" URL="../Tree Show Scrollbar.vi"/>
 		</Item>
 		<Item Name="Window Positioning" Type="Folder">
-			<Item Name="Determine Window Position.vi" Type="VI" URL="../Determine Window Position.vi"/>
-			<Item Name="Get Absolute Position of SubVI.vi" Type="VI" URL="../Get Absolute Position of SubVI.vi"/>
-			<Item Name="Get Monitor Bounds of Position.vi" Type="VI" URL="../Get Monitor Bounds of Position.vi"/>
-			<Item Name="Is Position on Right Half.vi" Type="VI" URL="../Is Position on Right Half.vi"/>
-			<Item Name="Position Peek Window.vi" Type="VI" URL="../Position Peek Window.vi"/>
 			<Item Name="Save Window Position.vi" Type="VI" URL="../Save Window Position.vi"/>
 			<Item Name="Set Window Position.vi" Type="VI" URL="../Set Window Position.vi"/>
-			<Item Name="Toggle Visibility.vi" Type="VI" URL="../Toggle Visibility.vi"/>
 		</Item>
-		<Item Name="Determine Peek Stack Display.vi" Type="VI" URL="../Determine Peek Stack Display.vi"/>
-		<Item Name="Get Application Instance Name.vi" Type="VI" URL="../Get Application Instance Name.vi"/>
-		<Item Name="Highlight Top SubVI.vi" Type="VI" URL="../Highlight Top SubVI.vi"/>
-		<Item Name="Insert Into Subpanel.vi" Type="VI" URL="../Insert Into Subpanel.vi"/>
-		<Item Name="Is Dynamic Dispatch.vi" Type="VI" URL="../Is Dynamic Dispatch.vi"/>
-		<Item Name="Is Valid Selection" Type="VI" URL="../Is Valid Selection"/>
-		<Item Name="Is VI Locked or Open.vi" Type="VI" URL="../Is VI Locked or Open.vi"/>
-		<Item Name="Pause UI Updates.vi" Type="VI" URL="../Pause UI Updates.vi"/>
-		<Item Name="Remove Last Item from Peek Stack.vi" Type="VI" URL="../Remove Last Item from Peek Stack.vi"/>
-		<Item Name="Replace Item in Peek Stack.vi" Type="VI" URL="../Replace Item in Peek Stack.vi"/>
-		<Item Name="Resume UI Updates.vi" Type="VI" URL="../Resume UI Updates.vi"/>
-		<Item Name="Strip Method Name.vi" Type="VI" URL="../Strip Method Name.vi"/>
-		<Item Name="Update Active VI.vi" Type="VI" URL="../Update Active VI.vi"/>
-		<Item Name="Update Call Chain.vi" Type="VI" URL="../Update Call Chain.vi"/>
-		<Item Name="VIs to Ignore.vi" Type="VI" URL="../VIs to Ignore.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
