@@ -92,6 +92,7 @@
 			<Item Name="Add to Tree.vi" Type="VI" URL="../Add to Tree.vi"/>
 			<Item Name="Delete Item.vi" Type="VI" URL="../Delete Item.vi"/>
 			<Item Name="Delete Last Item.vi" Type="VI" URL="../Delete Last Item.vi"/>
+			<Item Name="Delete Previous Item Descendants.vi" Type="VI" URL="../Delete Previous Item Descendants.vi"/>
 			<Item Name="Enable All Items.vi" Type="VI" URL="../Enable All Items.vi"/>
 			<Item Name="Fix Duplicates in Tree.vi" Type="VI" URL="../Fix Duplicates in Tree.vi"/>
 			<Item Name="Initialize Tree.vi" Type="VI" URL="../Initialize Tree.vi"/>
@@ -101,19 +102,27 @@
 			<Item Name="Simplify VI Name.vi" Type="VI" URL="../Simplify VI Name.vi"/>
 			<Item Name="Tree Show Scrollbar.vi" Type="VI" URL="../Tree Show Scrollbar.vi"/>
 		</Item>
+		<Item Name="VI Type" Type="Folder">
+			<Item Name="Check for VIM Extention.vi" Type="VI" URL="../Check for VIM Extention.vi"/>
+			<Item Name="Get Actual Malleable VI Name.vi" Type="VI" URL="../Get Actual Malleable VI Name.vi"/>
+			<Item Name="Is Dynamic Dispatch.vi" Type="VI" URL="../Is Dynamic Dispatch.vi"/>
+			<Item Name="Is Express VI.vi" Type="VI" URL="../Is Express VI.vi"/>
+			<Item Name="VI Types Enum.ctl" Type="VI" URL="../VI Types Enum.ctl"/>
+		</Item>
 		<Item Name="Window Positioning" Type="Folder">
 			<Item Name="Determine Window Position.vi" Type="VI" URL="../Determine Window Position.vi"/>
 			<Item Name="Get Absolute Position of SubVI.vi" Type="VI" URL="../Get Absolute Position of SubVI.vi"/>
 			<Item Name="Get Monitor Bounds of Position.vi" Type="VI" URL="../Get Monitor Bounds of Position.vi"/>
 			<Item Name="Is Position on Right Half.vi" Type="VI" URL="../Is Position on Right Half.vi"/>
 			<Item Name="Position Peek Window.vi" Type="VI" URL="../Position Peek Window.vi"/>
+			<Item Name="Save Window Position.vi" Type="VI" URL="../Save Window Position.vi"/>
+			<Item Name="Set Window Position.vi" Type="VI" URL="../Set Window Position.vi"/>
 			<Item Name="Toggle Visibility.vi" Type="VI" URL="../Toggle Visibility.vi"/>
 		</Item>
 		<Item Name="Determine Peek Stack Display.vi" Type="VI" URL="../Determine Peek Stack Display.vi"/>
 		<Item Name="Get Application Instance Name.vi" Type="VI" URL="../Get Application Instance Name.vi"/>
 		<Item Name="Highlight Top SubVI.vi" Type="VI" URL="../Highlight Top SubVI.vi"/>
 		<Item Name="Insert Into Subpanel.vi" Type="VI" URL="../Insert Into Subpanel.vi"/>
-		<Item Name="Is Dynamic Dispatch.vi" Type="VI" URL="../Is Dynamic Dispatch.vi"/>
 		<Item Name="Is Valid Selection" Type="VI" URL="../Is Valid Selection"/>
 		<Item Name="Is VI Locked or Open.vi" Type="VI" URL="../Is VI Locked or Open.vi"/>
 		<Item Name="Pause UI Updates.vi" Type="VI" URL="../Pause UI Updates.vi"/>
@@ -134,10 +143,12 @@
 		<Item Name="Wait on Module Sync.vi" Type="VI" URL="../Wait on Module Sync.vi"/>
 	</Item>
 	<Item Name="Glyphs" Type="Folder">
-		<Item Name="VI.png" Type="Document" URL="../VI.png"/>
+		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Below Here Glyph.png" Type="Document" URL="../Below Here Glyph.png"/>
 		<Item Name="Dynamic Dispatch VI.png" Type="Document" URL="../Dynamic Dispatch VI.png"/>
 		<Item Name="Symbols Enum.ctl" Type="VI" URL="../Symbols Enum.ctl"/>
+		<Item Name="VI.png" Type="Document" URL="../VI.png"/>
+		<Item Name="VIM.png" Type="Document" URL="../VIM.png"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
