@@ -89,7 +89,6 @@
 		</Item>
 		<Item Name="Item Selection" Type="Folder">
 			<Item Name="Is Valid Selection" Type="VI" URL="../Is Valid Selection"/>
-			<Item Name="Is VI Locked or Open.vi" Type="VI" URL="../Is VI Locked or Open.vi"/>
 			<Item Name="Update Active VI.vi" Type="VI" URL="../Update Active VI.vi"/>
 			<Item Name="VIs to Ignore.vi" Type="VI" URL="../VIs to Ignore.vi"/>
 		</Item>
@@ -110,8 +109,6 @@
 			<Item Name="Lookup Implementor.vi" Type="VI" URL="../VI Types/Dynamic Dispatch VI Type/Lookup Implementor.vi"/>
 			<Item Name="Replace Item in Tree.vi" Type="VI" URL="../Replace Item in Tree.vi"/>
 			<Item Name="Set Active Item.vi" Type="VI" URL="../Set Active Item.vi"/>
-			<Item Name="Simplify VI Name.vi" Type="VI" URL="../Simplify VI Name.vi"/>
-			<Item Name="Strip Method Name.vi" Type="VI" URL="../Strip Method Name.vi"/>
 			<Item Name="Tree Show Scrollbar.vi" Type="VI" URL="../Tree Show Scrollbar.vi"/>
 		</Item>
 		<Item Name="VI Type" Type="Folder">
@@ -136,11 +133,17 @@
 		<Item Name="Wait on Event Sync.vi" Type="VI" URL="../Wait on Event Sync.vi"/>
 		<Item Name="Wait on Module Sync.vi" Type="VI" URL="../Wait on Module Sync.vi"/>
 	</Item>
-	<Item Name="Glyphs" Type="Folder">
-		<Item Name="VI.png" Type="Document" URL="../VI.png"/>
-		<Item Name="Below Here Glyph.png" Type="Document" URL="../Below Here Glyph.png"/>
-		<Item Name="Dynamic Dispatch VI.png" Type="Document" URL="../Dynamic Dispatch VI.png"/>
+	<Item Name="Symbols" Type="Folder">
 		<Item Name="Symbols Enum.ctl" Type="VI" URL="../Symbols Enum.ctl"/>
+		<Item Name="Get Symbols Path.vi" Type="VI" URL="../Symbols/Get Symbols Path.vi"/>
+		<Item Name="Dynamic Dispatch VI.png" Type="Document" URL="../Symbols/Dynamic Dispatch VI.png"/>
+		<Item Name="Express VI 16.png" Type="Document" URL="../Symbols/Express VI 16.png"/>
+		<Item Name="Express VI.png" Type="Document" URL="../Symbols/Express VI.png"/>
+		<Item Name="Implementation Mark.png" Type="Document" URL="../Symbols/Implementation Mark.png"/>
+		<Item Name="Malleable VI.png" Type="Document" URL="../Symbols/Malleable VI.png"/>
+		<Item Name="Missing VI.png" Type="Document" URL="../Symbols/Missing VI.png"/>
+		<Item Name="Polymorphic VI.png" Type="Document" URL="../Symbols/Polymorphic VI.png"/>
+		<Item Name="Standard VI.png" Type="Document" URL="../Symbols/Standard VI.png"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
