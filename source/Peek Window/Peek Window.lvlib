@@ -19,7 +19,6 @@
 				<Item Name="Hide Panel Argument--cluster.ctl" Type="VI" URL="../Hide Panel Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Open Diagram Argument--cluster.ctl" Type="VI" URL="../Open Diagram Argument--cluster.ctl"/>
-				<Item Name="Update BD Selection UE Argument--cluster.ctl" Type="VI" URL="../Update BD Selection UE Argument--cluster.ctl"/>
 				<Item Name="Invalid Selection Argument--cluster.ctl" Type="VI" URL="../Invalid Selection Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
