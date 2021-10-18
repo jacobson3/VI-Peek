@@ -35,10 +35,11 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Open Diagram.vi" Type="VI" URL="../Open Diagram.vi"/>
 			<Item Name="Invalid Selection.vi" Type="VI" URL="../Invalid Selection.vi"/>
+			<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		</Item>
-		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
 		<Item Name="Obtain Broadcast Events for Registration.vi" Type="VI" URL="../Obtain Broadcast Events for Registration.vi"/>
+		<Item Name="Launch Handler.vi" Type="VI" URL="../Launch Handler.vi"/>
 	</Item>
 	<Item Name="Broadcasts" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
