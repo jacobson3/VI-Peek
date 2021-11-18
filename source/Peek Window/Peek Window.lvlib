@@ -81,11 +81,14 @@
 		</Item>
 		<Item Name="Dynamic Dispatch" Type="Folder"/>
 		<Item Name="General UI" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Get Application Instance Name.vi" Type="VI" URL="../Get Application Instance Name.vi"/>
 			<Item Name="Highlight Top SubVI.vi" Type="VI" URL="../Highlight Top SubVI.vi"/>
 			<Item Name="Insert Into Subpanel.vi" Type="VI" URL="../Insert Into Subpanel.vi"/>
 			<Item Name="Pause UI Updates.vi" Type="VI" URL="../Pause UI Updates.vi"/>
 			<Item Name="Resume UI Updates.vi" Type="VI" URL="../Resume UI Updates.vi"/>
+			<Item Name="Process Peek Window Scroll.vi" Type="VI" URL="../Process Peek Window Scroll.vi"/>
+			<Item Name="Scroll Data.ctl" Type="VI" URL="../Scroll Data.ctl"/>
 		</Item>
 		<Item Name="Item Selection" Type="Folder">
 			<Item Name="Is Valid Selection" Type="VI" URL="../Is Valid Selection"/>
