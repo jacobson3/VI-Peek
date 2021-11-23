@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-09-09 11:27:18" Modified_Date="2021-09-10 15:33:06" Creator="mjacobso" Comments="" ID="090909d892ab5c8d90555cb9a54cff86">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-09-09 11:27:18" Modified_Date="2021-10-18 17:16:56" Creator="mjacobso" Comments="" ID="ea63f6c6d6e4fb01f672dfee76ab7d97">
   <Library_General_Settings>
     <Package_File_Name>VI_Peek</Package_File_Name>
-    <Library_Version>0.1.0.9</Library_Version>
+    <Library_Version>0.2.0.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
